@@ -1,6 +1,6 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" alt="Naruto Eating" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZpZzQwNm85dTE1YzAzY25iamNua2xpaGhxY2Jubmd3a3NvM21naSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif" alt="Naruto Eating" width="500"/>
 </p>
 
 <!-- Main Heading -->
