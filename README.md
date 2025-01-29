@@ -1,6 +1,6 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1920-1080px-34.gif" alt="Hi there" width="500"/>
+  <img src="https://usagif.com/wp-content/uploads/2022/fzk5d/naruto-gif-wallpaper-1920-1080px-34.gif" alt="Naruto Eating" width="500"/>
 </p>
 
 <!-- Main Heading -->
