@@ -30,16 +30,13 @@
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Alex's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SirAlex-WebDev&show_icons=true&theme=radical" alt="Alex's GitHub Stats"/>
 </p>
 
 <!-- Top Languages -->
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAlex-WebDev&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views"/>
-</p>
+
