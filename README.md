@@ -30,8 +30,8 @@
   </a>
 </p>
 
-<!-- GitHub Stats & Top Languages in the center -->
+<!-- GitHub Stats & Top Languages in the center with fixes -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirAlex-WebDev&show_icons=true&theme=radical" alt="Alex's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAlex-WebDev&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SirAlex-WebDev&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Alex's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirAlex-WebDev&langs_count=10&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
